@@ -21,8 +21,11 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cs,html,css,js,react,git,github,mysql,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,html,css,js,react,git,github,azure,docker,vscode,visualstudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40"/>
 </p>
+
 
 ---
 
