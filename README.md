@@ -1,28 +1,44 @@
-👋 Hello, I'm Mohammed Mofreh
-💻 .NET Backend Engineer | Passionate about scalable & maintainable systems
+<h1 align="center">Hi 👋, I'm Mohammed Mofreh</h1>
+<h3 align="center">.NET Backend Engineer | Scalable & Maintainable Systems</h3>
 
-👨‍💻 About Me
-Motivated and detail-oriented .NET Backend Engineer with hands-on experience in building scalable, modular applications using ASP.NET Core, Clean Architecture, and Onion Architecture.
+---
 
-I specialize in:
-Designing maintainable systems using the Repository Pattern and SOLID principles.
+### 👨‍💻 About Me
 
-Developing real-time features with SignalR.
+🎯 Motivated and detail-oriented .NET Backend Engineer with hands-on experience in building scalable, modular applications using **ASP.NET Core**, **Clean Architecture**, and **Onion Architecture**.
 
-Implementing advanced UI components using MVC Grid libraries.
+🧠 **I specialize in:**
+- Designing maintainable systems using the **Repository Pattern** and **SOLID** principles.
+- Developing real-time features with **SignalR**.
+- Implementing advanced UI components using **MVC Grid libraries**.
 
-I’ve architected modular monolith systems, handled domain modeling, and contributed to real-time dashboards and internal management platforms.
+💡 I’ve architected modular monolith systems, handled domain modeling, and contributed to real-time dashboards and internal management platforms.
 
-With a strong foundation in C#, Entity Framework Core, and SQL Server, I’m passionate about writing clean, testable code and constantly improving backend architecture to serve real business needs.
+💬 I'm passionate about writing clean, testable code and constantly improving backend architecture to serve real business needs.
 
-✨ I bring a mix of technical depth and soft skills — collaboration, adaptability, and clear communication — to every team I join.
+---
 
-🛠️ Languages & Tools
-C# • .NET • Entity Framework Core • SQL Server • JavaScript • HTML • CSS • Git • GitHub
+### 🛠️ Tech Stack & Tools
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohammedMofreh&show_icons=true&theme=radical" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMofreh&layout=compact&theme=radical" /> </p>
-📬 Let's Connect
-📩 LinkedIn
-📧 mohamedmofreh236@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cs,html,css,js,react,git,github,mysql,vscode,visualstudio" />
+</p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedMofreh&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMofreh&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-saad-el-din-7a98181b6/)
+- 📬 mohamedmofreh236@gmail.com
+
+---
