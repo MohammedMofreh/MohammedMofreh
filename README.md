@@ -22,9 +22,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,csharp,html,css,js,react,git,github,azure,docker,vscode,visualstudio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" title="Unit Testing" />
 </p>
+
 
 
 ---
